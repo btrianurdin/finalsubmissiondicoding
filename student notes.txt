@@ -1,0 +1,31 @@
+1. Tampilkan halaman restoran
+2. Bila restoran belum disukai, tampilkan widget untuk menyukai restoran.
+3. Bila restoran sudah disukai, tampilkan widget untuk batal menyukai restoran.
+
+Menyukai Restoran:
+1. Restoram belum disukai
+2. menampilkan widget/tombol untuk menyukai restoran
+3. widget/tombol menyukai ditekan oleh pengguna
+4. restoran ditambahkan ke daftar restoran favorit
+	- Jika restoran sudah disukai
+		> Tidak menambahkan/menyimpan kembali ke daftar favorit
+	- Jika restoran tidak mempunyai id
+		> Sistem tetap berjalan
+		> sistem tidak menyimpan resotran ke daftar favorit
+
+Batal menyukai film:
+1. Restoran sudah disukai
+2. menampilkan widget/tombol untuk batal menyukai restoran
+3. widget/tombol batal menyukai ditekan oleh pengguna
+4. restoran dihapus dari daftar restoran favorit
+	- Jika restoran tidak ada dalam daftar
+		> sistem tetap berjalan
+
+
+Buka halaman utama
+Pilih salah satu film, misalnya film pertama
+Click film tersebut
+Aplikasi membawa kita ke halaman detail film
+Kita menekan tombol menyukai film
+Kita buka halaman daftar film yang disukai
+Kita melihat film yang telah disukai
